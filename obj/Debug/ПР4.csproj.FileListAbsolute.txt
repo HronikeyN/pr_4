@@ -1,0 +1,7 @@
+D:\Users\1210N-10\Documents\2-ИСП\оп\Подгруппа 1\Фамилия\Алексеев Никита\ПР4\ПР4\obj\Debug\ПР4.csproj.AssemblyReference.cache
+D:\Users\1210N-10\Documents\2-ИСП\оп\Подгруппа 1\Фамилия\Алексеев Никита\ПР4\ПР4\obj\Debug\ПР4.csproj.CoreCompileInputs.cache
+D:\Users\1210N-10\Documents\2-ИСП\оп\Подгруппа 1\Фамилия\Алексеев Никита\ПР4\ПР4\bin\Debug\ПР4.exe.config
+D:\Users\1210N-10\Documents\2-ИСП\оп\Подгруппа 1\Фамилия\Алексеев Никита\ПР4\ПР4\bin\Debug\ПР4.exe
+D:\Users\1210N-10\Documents\2-ИСП\оп\Подгруппа 1\Фамилия\Алексеев Никита\ПР4\ПР4\bin\Debug\ПР4.pdb
+D:\Users\1210N-10\Documents\2-ИСП\оп\Подгруппа 1\Фамилия\Алексеев Никита\ПР4\ПР4\obj\Debug\ПР4.exe
+D:\Users\1210N-10\Documents\2-ИСП\оп\Подгруппа 1\Фамилия\Алексеев Никита\ПР4\ПР4\obj\Debug\ПР4.pdb
